@@ -1,0 +1,13 @@
+#startDate, #startTime {
+    width: 10%;
+    float: left;
+}
+
+input 
+{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width:75%;
+}
